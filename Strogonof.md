@@ -1,9 +1,10 @@
-h1<Receitas>
+#Receitas
  
-h2<Strogonof de Frango>
+##Strogonof de Frango
 
-h3<1 peito de frango desfiado>
-h3<1 2 caixa creme leite>
-h3<1 azeitona 400g>
-h3<1 Noz moscda>
-h3<1 Pimententa do reino>
+###1 peito de frango desfiado
+###1 2 caixa creme leite
+###1 azeitona 400g
+###1 Noz moscda
+###1 Pimententa do reino
+###1 tomate picado
